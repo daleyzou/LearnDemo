@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3937b55b-048e-422e-82a0-09d4540fb1e6" name="Default Changelist" comment="add Deferredresult&#10;&#10;Co-Authored-By: DaleyZou's World &lt;daleyzou@163.com&gt;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3937b55b-048e-422e-82a0-09d4540fb1e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daleyzou/demo/lru/LruDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daleyzou/demo/lru/LruDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -62,6 +63,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -76,7 +78,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AsyncFeginServiceTest.returnLongPollingValue">
+  <component name="RunManager" selected="Application.LruDemo">
+    <configuration name="LruDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daleyzou.demo.lru.LruDemo" />
+      <module name="LearnDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daleyzou.demo.lru.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AsyncFeginServiceTest.longPolling" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnDemo" />
       <extension name="coverage">
@@ -118,6 +133,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LruDemo" />
         <item itemvalue="JUnit.AsyncFeginServiceTest.returnLongPollingValue" />
         <item itemvalue="JUnit.AsyncFeginServiceTest.longPolling" />
       </list>
@@ -137,6 +153,7 @@
       <workItem from="1597412286556" duration="5354000" />
       <workItem from="1597554857932" duration="595000" />
       <workItem from="1597627365106" duration="750000" />
+      <workItem from="1599095441264" duration="1752000" />
     </task>
     <task id="LOCAL-00001" summary="add Deferredresult&#10;&#10;Co-Authored-By: DaleyZou's World &lt;daleyzou@163.com&gt;">
       <created>1597416155810</created>
@@ -145,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597416155811</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Deferredresult&#10;&#10;Co-Authored-By: DaleyZou's World &lt;daleyzou@163.com&gt;">
+      <created>1599095582304</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599095582304</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,26 +180,31 @@
     <option name="LAST_COMMIT_MESSAGE" value="add Deferredresult&#10;&#10;Co-Authored-By: DaleyZou's World &lt;daleyzou@163.com&gt;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2449" y="18" key="CommitChangelistDialog2" timestamp="1597416204430">
+    <state x="2654" y="144" key="#com.intellij.ide.util.MemberChooser" timestamp="1599096477021">
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>
+    <state x="2654" y="144" key="#com.intellij.ide.util.MemberChooser/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1599096477021" />
+    <state x="420" y="0" key="CommitChangelistDialog2" timestamp="1599095581764">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="420" y="0" key="CommitChangelistDialog2/0.0.1474.864/1920.-112.1858.1080@0.0.1474.864" timestamp="1599095581764" />
     <state x="2449" y="18" key="CommitChangelistDialog2/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597416204430" />
-    <state width="1815" height="337" key="GridCell.Tab.0.bottom" timestamp="1597416255408">
+    <state width="1814" height="337" key="GridCell.Tab.0.bottom" timestamp="1599097300177">
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>
-    <state width="1815" height="337" key="GridCell.Tab.0.bottom/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597416255408" />
-    <state width="1815" height="337" key="GridCell.Tab.0.center" timestamp="1597416255407">
+    <state width="1814" height="337" key="GridCell.Tab.0.bottom/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1599097300177" />
+    <state width="1814" height="337" key="GridCell.Tab.0.center" timestamp="1599097300177">
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>
-    <state width="1815" height="337" key="GridCell.Tab.0.center/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597416255407" />
-    <state width="1815" height="337" key="GridCell.Tab.0.left" timestamp="1597416255406">
+    <state width="1814" height="337" key="GridCell.Tab.0.center/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1599097300177" />
+    <state width="1814" height="337" key="GridCell.Tab.0.left" timestamp="1599097300177">
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>
-    <state width="1815" height="337" key="GridCell.Tab.0.left/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597416255406" />
-    <state width="1815" height="337" key="GridCell.Tab.0.right" timestamp="1597416255408">
+    <state width="1814" height="337" key="GridCell.Tab.0.left/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1599097300177" />
+    <state width="1814" height="337" key="GridCell.Tab.0.right" timestamp="1599097300177">
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>
-    <state width="1815" height="337" key="GridCell.Tab.0.right/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597416255408" />
+    <state width="1814" height="337" key="GridCell.Tab.0.right/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1599097300177" />
     <state width="1815" height="465" key="GridCell.Tab.1.bottom" timestamp="1597415853007">
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>
@@ -200,9 +229,14 @@
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>
     <state x="2558" y="143" key="MultipleFileMergeDialog/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597416250325" />
-    <state x="2441" y="161" key="Vcs.Push.Dialog.v2" timestamp="1597416213220">
+    <state x="2570" y="169" width="540" height="524" key="StructurePopup" timestamp="1599096705085">
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>
+    <state x="2570" y="169" width="540" height="524" key="StructurePopup/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1599096705085" />
+    <state x="413" y="218" key="Vcs.Push.Dialog.v2" timestamp="1599095584162">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="413" y="218" key="Vcs.Push.Dialog.v2/0.0.1474.864/1920.-112.1858.1080@0.0.1474.864" timestamp="1599095584162" />
     <state x="2441" y="161" key="Vcs.Push.Dialog.v2/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597416213220" />
     <state x="2641" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597467849293">
       <screen x="1920" y="-112" width="1858" height="1080" />
@@ -212,5 +246,9 @@
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>
     <state x="2593" y="146" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597415490519" />
+    <state x="2579" y="181" key="extract.method.dialog" timestamp="1599097224628">
+      <screen x="1920" y="-112" width="1858" height="1080" />
+    </state>
+    <state x="2579" y="181" key="extract.method.dialog/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1599097224628" />
   </component>
 </project>
