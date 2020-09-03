@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3937b55b-048e-422e-82a0-09d4540fb1e6" name="Default Changelist" comment="">
+    <list default="true" id="3937b55b-048e-422e-82a0-09d4540fb1e6" name="Default Changelist" comment="add Deferredresult&#10;&#10;Co-Authored-By: DaleyZou's World &lt;daleyzou@163.com&gt;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/daleyzou/demo/deferredresult/AsyncFeginServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/daleyzou/demo/deferredresult/AsyncFeginServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +21,13 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="daleyzou" />
         <option value="daley" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -60,7 +62,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RebelAgentSelection">
@@ -132,34 +134,48 @@
       <option name="presentableId" value="Default" />
       <updated>1597412110448</updated>
       <workItem from="1597412114505" duration="88000" />
-      <workItem from="1597412286556" duration="3835000" />
+      <workItem from="1597412286556" duration="5354000" />
+      <workItem from="1597554857932" duration="595000" />
+      <workItem from="1597627365106" duration="750000" />
     </task>
+    <task id="LOCAL-00001" summary="add Deferredresult&#10;&#10;Co-Authored-By: DaleyZou's World &lt;daleyzou@163.com&gt;">
+      <created>1597416155810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597416155811</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Deferredresult&#10;&#10;Co-Authored-By: DaleyZou's World &lt;daleyzou@163.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Deferredresult&#10;&#10;Co-Authored-By: DaleyZou's World &lt;daleyzou@163.com&gt;" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="2449" y="18" key="CommitChangelistDialog2" timestamp="1597412729249">
+    <state x="2449" y="18" key="CommitChangelistDialog2" timestamp="1597416204430">
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>
-    <state x="2449" y="18" key="CommitChangelistDialog2/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597412729249" />
-    <state width="1815" height="465" key="GridCell.Tab.0.bottom" timestamp="1597415980730">
+    <state x="2449" y="18" key="CommitChangelistDialog2/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597416204430" />
+    <state width="1815" height="337" key="GridCell.Tab.0.bottom" timestamp="1597416255408">
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>
-    <state width="1815" height="465" key="GridCell.Tab.0.bottom/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597415980730" />
-    <state width="1815" height="465" key="GridCell.Tab.0.center" timestamp="1597415980730">
+    <state width="1815" height="337" key="GridCell.Tab.0.bottom/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597416255408" />
+    <state width="1815" height="337" key="GridCell.Tab.0.center" timestamp="1597416255407">
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>
-    <state width="1815" height="465" key="GridCell.Tab.0.center/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597415980730" />
-    <state width="1815" height="465" key="GridCell.Tab.0.left" timestamp="1597415980730">
+    <state width="1815" height="337" key="GridCell.Tab.0.center/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597416255407" />
+    <state width="1815" height="337" key="GridCell.Tab.0.left" timestamp="1597416255406">
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>
-    <state width="1815" height="465" key="GridCell.Tab.0.left/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597415980730" />
-    <state width="1815" height="465" key="GridCell.Tab.0.right" timestamp="1597415980730">
+    <state width="1815" height="337" key="GridCell.Tab.0.left/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597416255406" />
+    <state width="1815" height="337" key="GridCell.Tab.0.right" timestamp="1597416255408">
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>
-    <state width="1815" height="465" key="GridCell.Tab.0.right/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597415980730" />
+    <state width="1815" height="337" key="GridCell.Tab.0.right/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597416255408" />
     <state width="1815" height="465" key="GridCell.Tab.1.bottom" timestamp="1597415853007">
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>
@@ -180,6 +196,18 @@
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>
     <state x="2379" y="83" key="Maven.ArtifactSearchDialog/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597414665021" />
+    <state x="2558" y="143" key="MultipleFileMergeDialog" timestamp="1597416250325">
+      <screen x="1920" y="-112" width="1858" height="1080" />
+    </state>
+    <state x="2558" y="143" key="MultipleFileMergeDialog/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597416250325" />
+    <state x="2441" y="161" key="Vcs.Push.Dialog.v2" timestamp="1597416213220">
+      <screen x="1920" y="-112" width="1858" height="1080" />
+    </state>
+    <state x="2441" y="161" key="Vcs.Push.Dialog.v2/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597416213220" />
+    <state x="2641" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597467849293">
+      <screen x="1920" y="-112" width="1858" height="1080" />
+    </state>
+    <state x="2641" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597467849293" />
     <state x="2593" y="146" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597415490519">
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>
