@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3937b55b-048e-422e-82a0-09d4540fb1e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/daleyzou/demo/BitTest.java" afterDir="false" />
+    <list default="true" id="3937b55b-048e-422e-82a0-09d4540fb1e6" name="Default Changelist" comment="add bit">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/daleyzou/demo/BitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/daleyzou/demo/BitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="da" />
         <option value="daleyzou" />
         <option value="daley" />
       </list>
@@ -170,7 +171,7 @@
       <workItem from="1597554857932" duration="595000" />
       <workItem from="1597627365106" duration="750000" />
       <workItem from="1599095441264" duration="1752000" />
-      <workItem from="1599615759308" duration="2107000" />
+      <workItem from="1599615759308" duration="2977000" />
     </task>
     <task id="LOCAL-00001" summary="add Deferredresult&#10;&#10;Co-Authored-By: DaleyZou's World &lt;daleyzou@163.com&gt;">
       <created>1597416155810</created>
@@ -201,31 +202,32 @@
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>
     <state x="2654" y="144" key="#com.intellij.ide.util.MemberChooser/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1599096477021" />
-    <state x="420" y="0" key="CommitChangelistDialog2" timestamp="1599095581764">
-      <screen x="0" y="0" width="1474" height="864" />
+    <state x="529" y="0" key="CommitChangelistDialog2" timestamp="1599701341161">
+      <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="420" y="0" key="CommitChangelistDialog2/0.0.1474.864/1920.-112.1858.1080@0.0.1474.864" timestamp="1599095581764" />
     <state x="2449" y="18" key="CommitChangelistDialog2/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597416204430" />
-    <state width="1814" height="415" key="GridCell.Tab.0.bottom" timestamp="1599701240409">
+    <state x="529" y="0" key="CommitChangelistDialog2/1920.0.1486.864/0.0.1858.1080@0.0.1858.1080" timestamp="1599701341161" />
+    <state width="1814" height="191" key="GridCell.Tab.0.bottom" timestamp="1599703271551">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state width="1814" height="337" key="GridCell.Tab.0.bottom/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1599097300177" />
-    <state width="1814" height="415" key="GridCell.Tab.0.bottom/1920.0.1486.864/0.0.1858.1080@0.0.1858.1080" timestamp="1599701240409" />
-    <state width="1814" height="415" key="GridCell.Tab.0.center" timestamp="1599701240409">
+    <state width="1814" height="191" key="GridCell.Tab.0.bottom/1920.0.1486.864/0.0.1858.1080@0.0.1858.1080" timestamp="1599703271551" />
+    <state width="1814" height="191" key="GridCell.Tab.0.center" timestamp="1599703271551">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state width="1814" height="337" key="GridCell.Tab.0.center/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1599097300177" />
-    <state width="1814" height="415" key="GridCell.Tab.0.center/1920.0.1486.864/0.0.1858.1080@0.0.1858.1080" timestamp="1599701240409" />
-    <state width="1814" height="415" key="GridCell.Tab.0.left" timestamp="1599701240409">
+    <state width="1814" height="191" key="GridCell.Tab.0.center/1920.0.1486.864/0.0.1858.1080@0.0.1858.1080" timestamp="1599703271551" />
+    <state width="1814" height="191" key="GridCell.Tab.0.left" timestamp="1599703271550">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state width="1814" height="337" key="GridCell.Tab.0.left/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1599097300177" />
-    <state width="1814" height="415" key="GridCell.Tab.0.left/1920.0.1486.864/0.0.1858.1080@0.0.1858.1080" timestamp="1599701240409" />
-    <state width="1814" height="415" key="GridCell.Tab.0.right" timestamp="1599701240409">
+    <state width="1814" height="191" key="GridCell.Tab.0.left/1920.0.1486.864/0.0.1858.1080@0.0.1858.1080" timestamp="1599703271550" />
+    <state width="1814" height="191" key="GridCell.Tab.0.right" timestamp="1599703271551">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state width="1814" height="337" key="GridCell.Tab.0.right/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1599097300177" />
-    <state width="1814" height="415" key="GridCell.Tab.0.right/1920.0.1486.864/0.0.1858.1080@0.0.1858.1080" timestamp="1599701240409" />
+    <state width="1814" height="191" key="GridCell.Tab.0.right/1920.0.1486.864/0.0.1858.1080@0.0.1858.1080" timestamp="1599703271551" />
     <state width="1815" height="465" key="GridCell.Tab.1.bottom" timestamp="1597415853007">
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>

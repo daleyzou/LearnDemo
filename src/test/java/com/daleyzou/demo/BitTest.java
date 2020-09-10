@@ -14,7 +14,8 @@ public class BitTest  extends LearnDemoApplicationTests {
     @Test
     public void testBit(){
         System.out.println("1<<12: " + (1<<12));
-        System.out.println("1<<1: " + (1<<1));
+        System.out.println("2<<1: " + (2<<1));
+        System.out.println("2>>1: " + (2>>1));
     }
 
 }
