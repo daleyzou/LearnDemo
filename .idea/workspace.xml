@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3937b55b-048e-422e-82a0-09d4540fb1e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daleyzou/demo/lru/LruDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daleyzou/demo/lru/LruDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/daleyzou/demo/BitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LruDemo">
+  <component name="RunManager" selected="JUnit.BitTest.testBit">
     <configuration name="LruDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.daleyzou.demo.lru.LruDemo" />
       <module name="LearnDemo" />
@@ -124,6 +123,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BitTest.testBit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearnDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daleyzou.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.daleyzou.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.daleyzou.demo.BitTest" />
+      <option name="METHOD_NAME" value="testBit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LearnDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="LearnDemo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.daleyzou.demo.LearnDemoApplication" />
@@ -133,6 +148,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BitTest.testBit" />
         <item itemvalue="Application.LruDemo" />
         <item itemvalue="JUnit.AsyncFeginServiceTest.returnLongPollingValue" />
         <item itemvalue="JUnit.AsyncFeginServiceTest.longPolling" />
@@ -154,6 +170,7 @@
       <workItem from="1597554857932" duration="595000" />
       <workItem from="1597627365106" duration="750000" />
       <workItem from="1599095441264" duration="1752000" />
+      <workItem from="1599615759308" duration="2107000" />
     </task>
     <task id="LOCAL-00001" summary="add Deferredresult&#10;&#10;Co-Authored-By: DaleyZou's World &lt;daleyzou@163.com&gt;">
       <created>1597416155810</created>
@@ -189,22 +206,26 @@
     </state>
     <state x="420" y="0" key="CommitChangelistDialog2/0.0.1474.864/1920.-112.1858.1080@0.0.1474.864" timestamp="1599095581764" />
     <state x="2449" y="18" key="CommitChangelistDialog2/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597416204430" />
-    <state width="1814" height="337" key="GridCell.Tab.0.bottom" timestamp="1599097300177">
-      <screen x="1920" y="-112" width="1858" height="1080" />
+    <state width="1814" height="415" key="GridCell.Tab.0.bottom" timestamp="1599701240409">
+      <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state width="1814" height="337" key="GridCell.Tab.0.bottom/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1599097300177" />
-    <state width="1814" height="337" key="GridCell.Tab.0.center" timestamp="1599097300177">
-      <screen x="1920" y="-112" width="1858" height="1080" />
+    <state width="1814" height="415" key="GridCell.Tab.0.bottom/1920.0.1486.864/0.0.1858.1080@0.0.1858.1080" timestamp="1599701240409" />
+    <state width="1814" height="415" key="GridCell.Tab.0.center" timestamp="1599701240409">
+      <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state width="1814" height="337" key="GridCell.Tab.0.center/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1599097300177" />
-    <state width="1814" height="337" key="GridCell.Tab.0.left" timestamp="1599097300177">
-      <screen x="1920" y="-112" width="1858" height="1080" />
+    <state width="1814" height="415" key="GridCell.Tab.0.center/1920.0.1486.864/0.0.1858.1080@0.0.1858.1080" timestamp="1599701240409" />
+    <state width="1814" height="415" key="GridCell.Tab.0.left" timestamp="1599701240409">
+      <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state width="1814" height="337" key="GridCell.Tab.0.left/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1599097300177" />
-    <state width="1814" height="337" key="GridCell.Tab.0.right" timestamp="1599097300177">
-      <screen x="1920" y="-112" width="1858" height="1080" />
+    <state width="1814" height="415" key="GridCell.Tab.0.left/1920.0.1486.864/0.0.1858.1080@0.0.1858.1080" timestamp="1599701240409" />
+    <state width="1814" height="415" key="GridCell.Tab.0.right" timestamp="1599701240409">
+      <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state width="1814" height="337" key="GridCell.Tab.0.right/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1599097300177" />
+    <state width="1814" height="415" key="GridCell.Tab.0.right/1920.0.1486.864/0.0.1858.1080@0.0.1858.1080" timestamp="1599701240409" />
     <state width="1815" height="465" key="GridCell.Tab.1.bottom" timestamp="1597415853007">
       <screen x="1920" y="-112" width="1858" height="1080" />
     </state>
