@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3937b55b-048e-422e-82a0-09d4540fb1e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daleyzou/demo/lru/cache/LruMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daleyzou/demo/lru/cache/LruLinkedMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daleyzou/demo/lru/cache/LruMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daleyzou/demo/lru/cache/LruMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +183,7 @@
       <workItem from="1602742007113" duration="124000" />
       <workItem from="1602742153769" duration="1871000" />
       <workItem from="1603072798268" duration="10621000" />
-      <workItem from="1603108271655" duration="5119000" />
+      <workItem from="1603108271655" duration="6460000" />
     </task>
     <task id="LOCAL-00001" summary="add Deferredresult&#10;&#10;Co-Authored-By: DaleyZou's World &lt;daleyzou@163.com&gt;">
       <created>1597416155810</created>
@@ -212,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603111103287</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add lru map">
+      <created>1603114278992</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603114278992</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,20 +230,21 @@
     <MESSAGE value="add Deferredresult&#10;&#10;Co-Authored-By: DaleyZou's World &lt;daleyzou@163.com&gt;" />
     <MESSAGE value="add bit" />
     <MESSAGE value="lru demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="lru demo" />
+    <MESSAGE value="add lru map" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lru map" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="734" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1603111905736">
+    <state x="734" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1603115295489">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="2654" y="144" key="#com.intellij.ide.util.MemberChooser/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1599096477021" />
-    <state x="734" y="256" key="#com.intellij.ide.util.MemberChooser/1920.0.1486.864/0.0.1858.1080@0.0.1858.1080" timestamp="1603111905736" />
-    <state x="529" y="0" key="CommitChangelistDialog2" timestamp="1603114269199">
+    <state x="734" y="256" key="#com.intellij.ide.util.MemberChooser/1920.0.1486.864/0.0.1858.1080@0.0.1858.1080" timestamp="1603115295489" />
+    <state x="529" y="0" key="CommitChangelistDialog2" timestamp="1603114278402">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="420" y="0" key="CommitChangelistDialog2/0.0.1474.864/1920.-112.1858.1080@0.0.1474.864" timestamp="1599095581764" />
     <state x="2449" y="18" key="CommitChangelistDialog2/0.0.1474.864/1920.-112.1858.1080@1920.-112.1858.1080" timestamp="1597416204430" />
-    <state x="529" y="0" key="CommitChangelistDialog2/1920.0.1486.864/0.0.1858.1080@0.0.1858.1080" timestamp="1603114269199" />
+    <state x="529" y="0" key="CommitChangelistDialog2/1920.0.1486.864/0.0.1858.1080@0.0.1858.1080" timestamp="1603114278402" />
     <state x="709" y="295" key="FileChooserDialogImpl" timestamp="1603108373882">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>

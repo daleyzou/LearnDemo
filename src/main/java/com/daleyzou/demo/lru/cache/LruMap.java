@@ -12,7 +12,7 @@ import java.util.Map;
  * @version 1.3.1
  */
 public class LruMap<K, V> {
-    private final Map<Object, Object> cacheMap = new HashMap<>();
+    private final Map<K, V> cacheMap = new HashMap<>();
 
     private int cacheSize;
 
@@ -43,7 +43,7 @@ public class LruMap<K, V> {
         addHead(newNode);
     }
 
-    public Node<K, V> get(K key){
+    public V get(K key){
         // 获取后将对应的节点转移到链表头去
         Node<K, V> tempHeader = this.header;
         Node<K, V> reusultNode = null;
@@ -62,12 +62,11 @@ public class LruMap<K, V> {
                   reusultNode.next.tail = reusultNode.tail;
                   nodeCount--;
             }else {
-                return reusultNode;
+                return reusultNode.value;
             }
             moveToHead(kvNode);
-            return kvNode;
         }
-        return null;
+        return cacheMap.get(key);
     }
 
     private void moveToHead(Node<K,V> kvNode) {
